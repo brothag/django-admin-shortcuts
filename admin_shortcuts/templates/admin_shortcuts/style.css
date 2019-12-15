@@ -6,6 +6,7 @@
 /* overwrite originals for grappelli */
 header#grp-header { position: relative; }
 #grp-content { padding: 0px 20px 120px; }
+.grp-messagelist { padding: 20px 0 10px 0; }
 
 /* shortcuts */
 .admin_shortcuts .shortcuts { background: #50839e; padding: 40px 20px 10px; margin: 0; list-style: none;
