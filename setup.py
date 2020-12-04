@@ -12,7 +12,7 @@ setup(
     version=version,
     description='Add simple and pretty shortcuts to the django admin homepage.',
     long_description=open(os.path.join(os.path.dirname(__file__), 'README.rst')).read(),
-    url='https://github.com/alesdotio/django-admin-shortcuts',
+    url='https://github.com/brothag/django-admin-shortcuts',
     packages=find_packages(exclude=['docs', 'tests*']),
     include_package_data=True,
     install_requires=[
